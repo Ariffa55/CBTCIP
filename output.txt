@@ -1,0 +1,30 @@
+Epoch 0, Loss: 3.8326
+Epoch 100, Loss: 0.7153
+Epoch 200, Loss: 0.3794
+Epoch 300, Loss: 0.1818
+Epoch 400, Loss: 0.3016
+Epoch 500, Loss: 0.1920
+Epoch 600, Loss: 0.0796
+Epoch 700, Loss: 0.0780
+Epoch 800, Loss: 0.0286
+Epoch 900, Loss: 0.0283
+
+=== Chat with your bot (type 'exit' to stop) ===
+You:  hi
+Bot: hello
+You:  hello
+Bot: hi
+You:  how are you
+Bot: i am fine, thank you
+You:  what can you do
+Bot: i can chat with you
+You:  what is your name
+Bot: i am a chatbot
+You:  tell me a joke
+Bot: why don’t scientists trust atoms? because they make up everything!
+You:  see you later
+Bot: take care
+You:  bye
+Bot: goodbye
+You:  exit
+Bot: Goodbye! 👋
